@@ -3,7 +3,7 @@
 
 # Used with permission.
  
-TCP_HOST=example.com       # A known spam-friendly ISP.
+TCP_HOST=$1       # A known spam-friendly ISP.
 TCP_PORT=80                # Port 80 is http.
   
 # Try to connect. (Somewhat similar to a 'ping' . . .) 
