@@ -1,4 +1,4 @@
-Description of scripts
+**Description of scripts**
 
 
 1. bkp_sql_14 - script for executing compressed backup of mysql database, ideal for automatization in cron
